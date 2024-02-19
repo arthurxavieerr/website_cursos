@@ -190,7 +190,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 84%;
+    width: 100%;
     height: auto;
 }
 
@@ -368,7 +368,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 88%;
+    width: 100%;
     height: auto;
 }
 
